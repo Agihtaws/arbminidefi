@@ -1,5 +1,7 @@
 # Multi-Asset DeFi Protocol
 
+![Multi-Asset DeFi Protocol](https://raw.githubusercontent.com/Agihtaws/arbminidefi/main/frontend/public/ChatGPT%20Image%20Sep%205%2C%202025%2C%2008_35_16%20PM.png)
+
 A cutting-edge decentralized finance (DeFi) platform built on the Arbitrum Sepolia testnet, enabling users to seamlessly lend, borrow, and manage their crypto assets with advanced real-time validation and a robust user experience.
 
 ## 🚀 Live Demo
