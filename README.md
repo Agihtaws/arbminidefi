@@ -6,7 +6,7 @@ A cutting-edge decentralized finance (DeFi) platform built on the Arbitrum Sepol
 
 - **Contract Address (MultiAssetLendingPool)**: `0xE6525B464f050eE44CaceA7711432E1D1Fc14026`
 - **USDC Token Address (Arbitrum Sepolia)**: `0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d`
-- **Frontend Application**: [Link to your deployed frontend, e.g., Vercel, Netlify]
+- **Frontend Application**: [https://arbminidefi.vercel.app/]
 - **View on Arbiscan**: [MultiAssetLendingPool](https://sepolia.arbiscan.io/address/0xE6525B464f050eE44CaceA7711432E1D1Fc14026) | [USDC Token](https://sepolia.arbiscan.io/token/0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d)
 
 ## ✨ Features
