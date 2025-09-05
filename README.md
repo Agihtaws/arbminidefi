@@ -34,47 +34,6 @@ A cutting-edge decentralized finance (DeFi) platform built on the Arbitrum Sepol
 -   **Security**: OpenZeppelin Contracts (ReentrancyGuard, Ownable, Pausable)
 -   **Development Environment**: Hardhat
 
-## 📋 Project Structure
-
-
-arbminidefi/
-├── contracts/
-│   └── MultiAssetLendingPool.sol  # Main lending pool smart contract
-├── deployments/
-│   └── ...                        # Contract deployment artifacts
-├── frontend/                      # React frontend application
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── MultiAssetBorrowingInterface.tsx # Borrowing UI with inline validation
-│   │   │   ├── MultiAssetLendingInterface.tsx   # Lending UI with inline validation
-│   │   │   ├── MultiAssetPoolStats.tsx          # Pool statistics display
-│   │   │   ├── UserLimitsDisplay.tsx            # User-specific limits display
-│   │   │   └── WalletConnection.tsx             # Wallet connection logic
-│   │   ├── contexts/
-│   │   │   └── ThemeContext.tsx                 # Dark/Light theme context
-│   │   ├── contracts/
-│   │   │   └── config.ts                        # Contract addresses & ABIs
-│   │   ├── hooks/
-│   │   │   └── useWeb3.ts                       # Web3 interaction hook
-│   │   └── App.tsx                              # Main application component
-│   └── package.json
-├── ignition/
-│   └── modules/
-│       └── Lock.js              # Hardhat Ignition module (default)
-├── scripts/
-│   └── deployMultiAsset.js      # Script for deploying MultiAssetLendingPool
-├── test/
-│   └── Lock.js                  # Example test file (default Hardhat)
-├── .gitignore
-├── README.md
-├── LICENSE
-├── hardhat.config.js
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-└── tailwind.config.js
-
 
 ## 🚀 Getting Started
 
